@@ -1,5 +1,5 @@
 # ADA - Exploratory Data Analysis
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=main)
 
 - Instituição: Let's Code
 - Curso: Santander Coders
@@ -7,7 +7,7 @@
 - Professores: Matheus Barão Fiorin
 - Alunos: Amanda Borges Matos Santana Magalhaes, Daniel, Douglas, Karen, Rhayza
 
-Este projeto é uma exploração dos datasets: [Prouni 2005 - 2019](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb) fornecidos pelo [Kaggle](https://www.kaggle.com/). O foco é realizar uma exploração e análise nesses dados.
+Este projeto é uma exploração dos datasets: [Prouni 2005 - 2019](https://www.kaggle.com/datasets/saraivaufc/prouni) fornecidos pelo [Kaggle](https://www.kaggle.com/). O foco é realizar uma exploração e análise nesses dados.
 
 A especificação completa do projeto pode ser encontrada em: [Projeto Final](https://github.com/DanielCustodioDias/Projeto_PROUNI/blob/main/utils/Projeto_final.md).
 
