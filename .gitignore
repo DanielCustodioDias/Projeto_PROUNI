@@ -40,12 +40,7 @@ dist/
 *.out
 
 # Arquivos de dados e uploads
-utils/BR_Setores_2021/shp/
-utils/BR_Setores_2021/shp/BR_Setores_2021.dbf
-utils/BR_Setores_2021/gpkg/BR_Setores_2021.gpkg
-utils/BR_Setores_2021/shp/BR_Setores_2021.shp
-utils/BR_Setores_2021/shp/BR_Setores_2021.cpg
-utils/BR_Setores_2021/shp/BR_Setores_2021.shx
+utils\BR_Setores_2021_shp
 uploads/
 *.csv
 *.xlsx
