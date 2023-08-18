@@ -37,9 +37,9 @@ Este projeto foi concluído usando Python e suas bibliotecas associadas, como Nu
 Projeto desenvolvido pelos Devs:
 
 - [Amanda Borges Matos Santana Magalhaes](https://github.com/magalhaesaamanda)
-- [Daniel](https://github.com/coquizin)
+- [Daniel](https://github.com/danielcustodiodias)
 - [Douglas](https://github.com/moreiragabrielsoares)
-- [Karen](https://github.com/jvDATA)
+- [Karen Almeida Neves](https://github.com/KarenAlmeida23)
 - [Rhayza](https://github.com/MatBrands/)
 
 ## Recomendações
