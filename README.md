@@ -67,7 +67,7 @@ conda env create -f environment.yml
 
 - Ativar
 ```sh
-conda activate ada_eda_venv
+conda activate ada_eda_env
 ```
 
 - Desativar
@@ -80,12 +80,12 @@ Pode-se utilizar o arquivo requirements.txt para criar o ambiente virtual.
 
 - Criar ambiente virtual
 ```sh
-python -m venv ada_eda_venv
+python -m venv ada_eda_env
 ```
 
 - Ativar
 ```sh
-source ./ada_eda_venv/bin/activate
+source ./ada_eda_env/bin/activate
 ```
 
 - Navegar até a pasta de destino
