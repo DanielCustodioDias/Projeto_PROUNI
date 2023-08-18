@@ -1,4 +1,0 @@
-# Especifica que arquivos .dbf, .gpkg e .shp serão tratados pelo Git LFS
-*.dbf filter=lfs diff=lfs merge=lfs -text
-*.gpkg filter=lfs diff=lfs merge=lfs -text
-*.shp filter=lfs diff=lfs merge=lfs -text
