@@ -40,7 +40,7 @@ Projeto desenvolvido pelos Devs:
 - [Daniel Custodio Dias](https://github.com/danielcustodiodias)
 - [Douglas Vieira Rocha](https://github.com/dogaVrocha)
 - [Karen Almeida Neves](https://github.com/KarenAlmeida23)
-- [Rhayza](https://github.com/rhayza/)
+- [Rhayza Pinto](https://github.com/RhayzaPinto)
 
 ## Recomendações
 - Cada desenvolvedor terá um notebook destinado à sua própria análise exploratória.
