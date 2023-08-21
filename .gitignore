@@ -41,7 +41,7 @@ dist/
 
 # Arquivos de dados e uploads
 data/
-utils/BR_Setores_2021_shp/
+utils/Setores_2021_shp/
 uploads/
 *.csv
 *.xlsx
