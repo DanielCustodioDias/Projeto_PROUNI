@@ -44,7 +44,7 @@ data/prouni_2005_2019.csv
 utils/Setores_2021_shp/
 uploads/
 *.xlsx
-*.zip
+*.csv
 
 # Outros arquivos específicos do projeto
 *.project
