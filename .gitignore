@@ -43,6 +43,7 @@ dist/
 data/prouni_2005_2019.csv
 utils/Setores_2021_shp/
 uploads/
+git-filter-repo/
 *.xlsx
 *.csv
 
