@@ -42,6 +42,7 @@ dist/
 # Arquivos de dados e uploads
 uploads/
 git-filter-repo/
+utils/BR_Setores_2021_shp/
 *.xlsx
 *.csv
 
