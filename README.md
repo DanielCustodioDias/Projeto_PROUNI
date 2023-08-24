@@ -5,7 +5,7 @@
 - Curso: Santander Coders
 - Disciplina: Técnicas de Programação I
 - Professores: Matheus Barão Fiorin
-- Alunos: Amanda Borges Matos Santana Magalhaes, Daniel, Douglas, Karen, Rhayza
+- Alunos: Amanda Borges Matos Santana Magalhaes, Daniel Custodio Dias, Douglas Vieira Rocha, Karen Almeida Neves, Rhayza Pinto
 
 Este projeto é uma exploração dos datasets: [Prouni 2005 - 2019](https://www.kaggle.com/datasets/saraivaufc/prouni) fornecidos pelo [Kaggle](https://www.kaggle.com/). O foco é realizar uma exploração e análise nesses dados.
 
@@ -46,8 +46,8 @@ Projeto desenvolvido pelos Devs:
 - Cada desenvolvedor terá um notebook destinado à sua própria análise exploratória.
 - Em relação aos commits será utilizado um padrão:
     - Commits de novas features. Ex: git commit -m "New: Readme"
-    - Commits de updates. Ex: git commit -m "Updated: Readme"
-    - Commits de remoção. Ex: git commit -m "Removed: Readme"
+    - Commits de updates. Ex: git commit -m "Update: Readme"
+    - Commits de remoção. Ex: git commit -m "Delete: Readme"
 
 ## Instalação
 Foi utilizado o [Python](https://www.python.org/) v3.11.
