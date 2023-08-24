@@ -40,10 +40,12 @@ dist/
 *.out
 
 # Arquivos de dados e uploads
+data/prouni_2005_2019.csv
 utils/Setores_2021_shp/
 uploads/
-*.csv
+git-filter-repo/
 *.xlsx
+*.csv
 
 # Outros arquivos específicos do projeto
 *.project
