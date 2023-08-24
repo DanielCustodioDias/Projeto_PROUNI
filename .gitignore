@@ -40,12 +40,10 @@ dist/
 *.out
 
 # Arquivos de dados e uploads
-data/
 utils/Setores_2021_shp/
 uploads/
 *.csv
 *.xlsx
-*.zip
 
 # Outros arquivos específicos do projeto
 *.project
